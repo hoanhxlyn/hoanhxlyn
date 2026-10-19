@@ -38,4 +38,3 @@ and no, I don't want to talk about it.
 ## Reach me
 
 - Email: **<ngphuchoanganh@gmail.com>**
-- GitHub: [@hoanhxlyn](https://github.com/hoanhxlyn)
