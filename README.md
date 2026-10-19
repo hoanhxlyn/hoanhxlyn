@@ -45,5 +45,3 @@ platform (React + Express + MariaDB). Happy to talk about any of them.
 
 - Email: **ngphuchoanganh@gmail.com**
 - GitHub: [@hoanhxlyn](https://github.com/hoanhxlyn)
-
-> IELTS 6.5 · TOEIC 860 — comfortable working in English with Japan- and Europe-based clients.
