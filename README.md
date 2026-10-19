@@ -32,7 +32,6 @@ I care about clean, accessible UI and well-tested code. I run NixOS, by the way.
 | **[aic8800-nix](https://github.com/hoanhxlyn/aic8800-nix)** | NixOS driver packaging for the AIC8800D80 WiFi 6 chipset | Nix, C |
 | **[fcitx5-vmk-nix](https://github.com/hoanhxlyn/fcitx5-vmk-nix)** | Nix package for a non-preedit Vietnamese input method on Fcitx5 | Nix, Go |
 | **[portfolio](https://github.com/hoanhxlyn/portfolio)** | My portfolio site — React Router SPA, Tailwind v4, shadcn/ui | TypeScript |
-| **[crypto-market-dashboard](https://github.com/hoanhxlyn/crypto-market-dashboard)** | Live top-20 coins by market cap, powered by CoinGecko | TypeScript, Mantine |
 
 ### Work I can't link
 
